@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
