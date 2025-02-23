@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kehong Liu / Personal Homepage"
+title                    : "Kehong Liu"
 title_separator          : "-"
 name                     : &name "Kehong Liu"
 description              : &description "personal description"
