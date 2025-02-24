@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year graduate student from [School of Artificial Intelligence](https://sai.xidian.edu.cn/index.htm), [Xidian University](https://en.xidian.edu.cn/). Before that, I obtained my B.E in computer science and technology in 2023 from the Xi'an University of Science and Technology, China.
+I'm a second year graduate student from [School of Artificial Intelligence](https://sai.xidian.edu.cn/index.htm), [Xidian University](https://en.xidian.edu.cn/). Before that, I obtained my B.E in computer science and technology in 2023 from the [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
 
 I am currently advised by [Prof. Shuiping Gou](https://scholar.google.com/citations?user=QdUISv8AAAAJ&hl=zh-CN) from Key Lab of IPIU.
 
