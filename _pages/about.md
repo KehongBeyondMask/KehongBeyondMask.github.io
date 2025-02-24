@@ -13,7 +13,11 @@ My research interest includes Biomedical Signal Processing, Computer Vision, and
 
 I was advised by [Prof. Shuiping Gou](https://scholar.google.com/citations?user=QdUISv8AAAAJ&hl=zh-CN) from Key Lab of IPIU.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).
 
 [Email](kehongliu@stu.xidian.edu) / [Github](https://github.com/lkh991223) / [Wechat](../images/wechat.jpg).
+
+
+
+hobbies: running🏃‍♀️, biking🚵‍♀️, movies🎥, guitar🎸...
 
