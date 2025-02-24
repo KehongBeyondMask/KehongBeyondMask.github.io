@@ -24,7 +24,7 @@ You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).
 # Publications and Patent
 
 ## 2025
-1. Shuiping Gou, **Kehong Liu**<sup>*</sup>, Hantao Zhao, Nuo Tong, Zhang Guo, Wenbo Liu, Qigong Sun, and Licheng Jiao, "Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video", **IEEE Transactions on Instrumentation & Measurement** (JCR Q1), Under Review, (* means co-first author and equal contributions). <a href="https://github.com/lkh991223/lkh991223.github.io/blob/master/files/TIM.pdf" target="_blank">PDF Link</a>
+1. Shuiping Gou, **Kehong Liu**<sup>*</sup>&nbsp;, Hantao Zhao, Nuo Tong, Zhang Guo, Wenbo Liu, Qigong Sun, and Licheng Jiao, "Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video", **IEEE Transactions on Instrumentation & Measurement** (JCR Q1), Under Review, (* means co-first author and equal contributions). [[pdf](https://drive.google.com/file/d/1Nqbf_bRbTLDwn2Cy__gzB0JALoaXWy9D/view?usp=drive_link)]
 
 ## 2024
 1. **Kehong Liu**, Shuo Wu, Tianhuan Li. Shuiping Gou, Xinlin Wang, and Zhang Guo, "Non-Contact Heart Rate Estimation From Photoplethysmography Using EEMD and Convolution-Transformer Network", in Proc. 2024 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (**IEEE CIVESMA'24**) (EI), Xi'an, China. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10586459)]
