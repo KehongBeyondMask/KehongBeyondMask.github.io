@@ -40,7 +40,7 @@ You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).
 1. **Kehong Liu**, “A Medical Imaging Three-Dimensional Volume Reconstruction Device”, Application patent, No.CN216230776U, Authorized.
 
 
-
+<br><br>
 # Miscellaneous
 - Some of myhobbies: running🏃‍♀️, biking🚵‍♀️, movie lover🎥, guitar🎸...
 
