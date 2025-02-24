@@ -42,5 +42,5 @@ You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).
 
 <br><br>
 # Miscellaneous
-- Some of myhobbies: running🏃‍♀️, biking🚵‍♀️, movie lover🎥, guitar🎸...
+- Some of my hobbies: running🏃‍♀️, biking🚵‍♀️, movie lover🎥, guitar🎸...
 
