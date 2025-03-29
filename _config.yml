@@ -22,7 +22,7 @@ repository               : "lkh991223/lkh991223.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1.png"
+  avatar           : "me.png"
   name             : "Kehong Liu"
   pronouns         : # example: "she/her"  
   bio              : "Under the Mask there can be anyone"
