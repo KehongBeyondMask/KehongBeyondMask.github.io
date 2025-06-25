@@ -9,6 +9,8 @@ redirect_from:
 
 I'm a second year graduate student from [School of Artificial Intelligence](https://sai.xidian.edu.cn/index.htm), [Xidian University](https://en.xidian.edu.cn/). Before that, I obtained my B.E in computer science and technology in 2023 from the [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
 
+I'm actively seeking PhD/RA position in the incoming 26fall.
+
 <!-- I am currently advised by [Prof. Shuiping Gou](https://scholar.google.com/citations?user=QdUISv8AAAAJ&hl=zh-CN) from Key Lab of IPIU. -->
 
 You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).
@@ -25,7 +27,7 @@ You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).
 
 ## 2025
 1. **Kehong Liu\***, Yuelin Li, Zhenzhen Huang, "[PulseMamba: An Efficient Framework with Multi-Scale Fusion and Frequency Enhancement for Non-Contact Heart Rate Estimation](../assets/TCE.pdf)", **IEEE Transactions on Consumer Electronics** (JCR Q1), Under Review. [[pdf](../assets/TCE.pdf)]
-2. Shuiping Gou, **Kehong Liu\***, Hantao Zhao, Nuo Tong, Zhang Guo, Wenbo Liu, Qigong Sun, and Licheng Jiao, "[Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video](../assets/TIM.pdf)", **IEEE Transactions on Instrumentation & Measurement** (JCR Q1), Major Revision, **(\* means co-first author and equal contributions)**. [[pdf](../assets/TIM.pdf)]
+2. Shuiping Gou, **Kehong Liu\***, Hantao Zhao, Nuo Tong, Zhang Guo, Wenbo Liu, Qigong Sun, and Licheng Jiao, "[Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video](../assets/TIM.pdf)", **IEEE Transactions on Instrumentation & Measurement** (JCR Q1), Major Revision, **(\* means co-first author and equal contributions, Shuiping Gou is my supervisor)**. [[pdf](../assets/TIM.pdf)]
 
 ## 2024
 1. **Kehong Liu**, Shuo Wu, Tianhuan Li. Shuiping Gou, Xinlin Wang, and Zhang Guo, "[Non-Contact Heart Rate Estimation From Photoplethysmography Using EEMD and Convolution-Transformer Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10586459)", *in Proc.* 2024 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (**IEEE CIVESMA'24**) (EI), Xi'an, China. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10586459)]
