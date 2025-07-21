@@ -13,12 +13,12 @@ I'm actively seeking PhD/RA position in the incoming 26fall.
 
 <!-- I am currently advised by [Prof. Shuiping Gou](https://scholar.google.com/citations?user=QdUISv8AAAAJ&hl=zh-CN) from Key Lab of IPIU. -->
 
-You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).
+<!-- You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).-->
 
 ## My research interestes include:
 - Non-contact physiological signal estimation from RGB/NIR videos, especially PPG signal.
 - Deep learning-based signal processing, modeling, imaging.
-- Computer Vision in Healthcare.
+- LLMs in Social-good.
 
 
 <br><br>
@@ -26,8 +26,8 @@ You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).
 # Publications and Patent
 
 ## 2025
-1. **Kehong Liu\***, Yuelin Li, Zhenzhen Huang, "[PulseMamba: An Efficient Framework with Multi-Scale Fusion and Frequency Enhancement for Non-Contact Heart Rate Estimation](../assets/TCE.pdf)", **IEEE Transactions on Consumer Electronics** (JCR Q1), Under Review. [[pdf](../files/TCE.pdf)]
-2. Shuiping Gou, **Kehong Liu\***, Hantao Zhao, Nuo Tong, Zhang Guo, Wenbo Liu, Qigong Sun, and Licheng Jiao, "[Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video](../assets/TIM.pdf)", **IEEE Transactions on Instrumentation & Measurement** (JCR Q1), Major Revision, **(\* means co-first author and equal contributions, Shuiping Gou is my supervisor)**. [[pdf](../files/TIM.pdf)]
+<!--1. **Kehong Liu\***, Yuelin Li, Zhenzhen Huang, "[PulseMamba: An Efficient Framework with Multi-Scale Fusion and Frequency Enhancement for Non-Contact Heart Rate Estimation](../assets/TCE.pdf)", **IEEE Transactions on Consumer Electronics** (JCR Q1), Under Review. [[pdf](../files/TCE.pdf)]-->
+1. Shuiping Gou, **Kehong Liu\***, Hantao Zhao, Nuo Tong, Zhang Guo, Wenbo Liu, Qigong Sun, and Licheng Jiao, "[Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video](../assets/TIM.pdf)", **IEEE Transactions on Instrumentation & Measurement** (JCR Q1), Major Revision, **(\* means co-first author and equal contributions, Shuiping Gou is my supervisor)**. [[pdf](../files/TIM.pdf)]
 
 ## 2024
 1. **Kehong Liu**, Shuo Wu, Tianhuan Li. Shuiping Gou, Xinlin Wang, and Zhang Guo, "[Non-Contact Heart Rate Estimation From Photoplethysmography Using EEMD and Convolution-Transformer Network](../files/CIVEMSA.pdf)", *in Proc.* 2024 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (**IEEE CIVESMA'24**) (EI), Xi'an, China. [[pdf](../files/CIVEMSA.pdf)]
