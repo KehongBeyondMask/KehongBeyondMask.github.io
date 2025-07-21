@@ -35,7 +35,7 @@ I'm actively seeking PhD/RA position in the incoming 26fall.
 
    
 ## 2023
-1. Xiaojian Liu, **Kehong Liu**, “[A Permission-Carrying Security Policy and Static Enforcement for Information Flows in Android Programs](../files/COSE.pdf)”, **Computers & Security** (JCR Q1), vol.126, pp.103090, 2023. [[pdf](../files/COSE.pdf)]
+1. Xiaojian Liu, **Kehong Liu**, “[A Permission-Carrying Security Policy and Static Enforcement for Information Flows in Android Programs](../files/COSE.pdf)”, **Computers & Security** (JCR Q1)  **(student first author)**, vol.126, pp.103090, 2023. [[pdf](../files/COSE.pdf)]
 2. **Kehong Liu**, “[STBi-YOLO: A Real-Time Object Detection Method for Lung Nodule Recognition](../files/STBi-YOLO.pdf)”, **IEEE Access** (JCR Q2), vol.10, pp.75385-75394, 2023. [[pdf](../files/STBi-YOLO.pdf)]
 
 ## Patents
