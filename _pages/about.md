@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year graduate student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. Before that, I obtained my B.E in computer science and technology in 2023 from [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
+I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. Before that, I obtained my B.E in computer science and technology in 2023 from [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
 
-I'm expecting to graduate in June, 2026. Now I'm working at Hong Kong Baptist University as a full-time research assistant with Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
+I'm expecting to graduate in June, 2026. Now I'm working at Hong Kong Baptist University as a research assistant with Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
 
 I'm actively seeking PhD position in 26 Fall.
 
+wechat: lkh_2046
 <!-- I am currently advised by [Prof. Shuiping Gou](https://scholar.google.com/citations?user=QdUISv8AAAAJ&hl=zh-CN) from Key Lab of IPIU. -->
 
 <!-- You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).-->
