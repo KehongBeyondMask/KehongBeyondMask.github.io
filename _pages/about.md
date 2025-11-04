@@ -18,11 +18,11 @@ I'm actively seeking PhD position in 26 Fall.
 <!-- You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).-->
 
 ## My research interestes include:
+- Multimodal Large Language Models (MLLM).
+- multi-agent, multi-task, multimodal learning.
 - Non-contact physiological signal estimation from RGB/NIR videos.
 - video/image processing.
 - signal processing (PPG/EEG signals).
-- Deep learning-based signal processing, modeling, imaging.
-- LLMs in Social-good.
 
 
 <br><br>
