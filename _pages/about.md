@@ -21,9 +21,7 @@ wechat: lkh_2046
 ## My research interestes include:
 - Multimodal Large Language Models (MLLM).
 - multi-agent, multi-task, multimodal learning.
-- Non-contact physiological signal estimation from RGB/NIR videos.
-- video/image processing.
-- signal processing (PPG/EEG signals).
+- video/signal processing.
 
 
 <br><br>
