@@ -22,7 +22,7 @@ wechat: lkh_2046
 - Multimodal Large Language Models (MLLM).
 - multi-agent, multi-task, multimodal learning.
 - video/signal processing.
-- remote physilogical signal estimation.
+- remote physiological signal estimation.
 - Internet-of-Things
 
 <br><br>
