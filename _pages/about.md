@@ -23,7 +23,8 @@ wechat: lkh_2046
 - multi-agent, multi-task, multimodal learning.
 - video/signal processing.
 - remote physiological signal estimation.
-- Internet-of-Things
+- Internet-of-Things (IoT)
+- Programming Language, Software Enineering
 
 <br><br>
 
