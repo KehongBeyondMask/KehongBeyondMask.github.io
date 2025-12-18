@@ -13,14 +13,15 @@ I'm expecting to graduate in June, 2026. Now I'm working at Hong Kong Baptist Un
 
 <font color='red'> I'm actively seeking PhD position in 26 Fall. </font>
 
+
 wechat: lkh_2046
 <!-- I am currently advised by [Prof. Shuiping Gou](https://scholar.google.com/citations?user=QdUISv8AAAAJ&hl=zh-CN) from Key Lab of IPIU. -->
 
 <!-- You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).-->
 
 ## My research interestes include:
+- mobile/edge computing, affect computing, wearable sensors.
 - Multimodal Large Language Models (MLLM).
-- mobile/edge computing, affect computing, wireless sensors.
 - video/signal processing.
 - Human-Robotic Interaction (HRI).
 - Internet-of-Things (IoT)
@@ -32,7 +33,7 @@ wechat: lkh_2046
 
 ## 2025
 1. **Kehong Liu\***,et al., "[PulseMamba: An Efficient Framework with Multi-Scale Fusion and Frequency Enhancement for Non-Contact Heart Rate Estimation](../assets/TCE.pdf)", **IEEE Transactions on Consumer Electronics** (JCR Q1), Major Revision. [[pdf](../files/TCE.pdf)]
-2. Zhang Guo, **Kehong Liu\***, Hantao Zhao, Nuo Tong, Zhang Guo, Wenbo Liu, Qigong Sun, and Licheng Jiao, "[Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video](../assets/TIM.pdf)", **IEEE Transactions on Industrial Informatics** (JCR Q1), Major Revision, **(\* means co-first author and equal contributions, Zhang Guo is my supervisor)**. [[pdf](../files/TII.pdf)]
+2. Zhang Guo\*, **Kehong Liu\***, Hantao Zhao, Nuo Tong, Zhang Guo, Wenbo Liu, Qigong Sun, and Licheng Jiao, "[Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video](../assets/TIM.pdf)", **IEEE Transactions on Industrial Informatics** (JCR Q1), Major Revision, **(\* means co-first author and equal contributions, Zhang Guo is my supervisor)**. [[pdf](../files/TII.pdf)]
 3. Xiaojian Liu, Zilin Qin, **Kehong Liu\***, "µGAN: A Mutation-Based Cost Optimal Adversarial Malware Generation Approach Against Evolving Android Malware Variants", **Computers & Security** (JCR Q1)
 
 ## 2024
