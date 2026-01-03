@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kehong Liu"
+title                    : "Kehong Liu (刘柯宏)"
 title_separator          : "-"
 name                     : &name "Kehong Liu (刘柯宏)"
 description              : &description "personal description"
