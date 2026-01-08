@@ -32,8 +32,8 @@ wechat: lkh_2046
 # Publications and Patent
 
 ## 2025
-1. **Kehong Liu\***,et al., "[PulseMamba: An Efficient Framework with Multi-Scale Fusion and Frequency Enhancement for Non-Contact Heart Rate Estimation](../assets/TCE.pdf)", **IEEE Transactions on Consumer Electronics** (JCR Q1), Major Revision. [[pdf](../files/TCE.pdf)]
-2. Zhang Guo\*, **Kehong Liu\***, Hantao Zhao, Nuo Tong, Zhang Guo, Wenbo Liu, Qigong Sun, and Licheng Jiao, "[Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video](../assets/TIM.pdf)", **IEEE Transactions on Industrial Informatics** (JCR Q1), Major Revision, **(\* means co-first author and equal contributions, Zhang Guo is my supervisor)**. [[pdf](../files/TII.pdf)]
+1. **Kehong Liu\***,et al., "[PulseMamba: An Efficient Framework with Multi-Scale Fusion and Frequency Enhancement for Non-Contact Heart Rate Estimation](../assets/TCE.pdf)", **IEEE Transactions on Consumer Electronics** (JCR Q1). [[pdf](../files/TCE.pdf)]
+2. Zhang Guo\*, **Kehong Liu\***, Hantao Zhao, Nuo Tong, Zhang Guo, Wenbo Liu, Qigong Sun, and Licheng Jiao, "[Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video](../assets/TIM.pdf)", **IEEE Transactions on Industrial Informatics** (JCR Q1), **(\* means co-first author and equal contributions, Zhang Guo is my supervisor)**. [[pdf](../files/TII.pdf)]
 3. Xiaojian Liu, Zilin Qin, **Kehong Liu\***, "µGAN: A Mutation-Based Cost Optimal Adversarial Malware Generation Approach Against Evolving Android Malware Variants", **Computers & Security** (JCR Q1)
 
 ## 2024
