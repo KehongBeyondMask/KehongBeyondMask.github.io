@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. Before that, I obtained my B.E in computer science in 2023 from [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
 
-I'm expecting to graduate in June, 2026. Now I'm working at Hong Kong Baptist University as a research assistant with Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
+I'm expected to graduate in June, 2026. Now I'm working at Hong Kong Baptist University as a research assistant with Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
 
 <font color='red'> I'm actively seeking PhD position in 26 Fall. </font>
 
