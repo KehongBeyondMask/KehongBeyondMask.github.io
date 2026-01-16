@@ -40,8 +40,8 @@ wechat: lkh_2046
 3. Xiaojian Liu, Zilin Qin, **Kehong Liu\***, "µGAN: A Mutation-Based Cost Optimal Adversarial Malware Generation Approach Against Evolving Android Malware Variants", **Computers & Security** (JCR Q1)
 
 ## 2024
-1. **Kehong Liu**, Shuo Wu, Tianhuan Li. Shuiping Gou, Xinlin Wang, and Zhang Guo, "[Non-Contact Heart Rate Estimation From Photoplethysmography Using EEMD and Convolution-Transformer Network](../files/CIVEMSA.pdf)", *in Proc.* 2024 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (**IEEE CIVESMA'24**) (EI), Xi'an, China. [[pdf](../files/CIVEMSA.pdf)]
-2. Wenbo Liu, Shuqing Sun, Yang Chen, Shuiping Gou, **Kehong Liu**, Yingping Li, and Ying Zhang, “[MCMR-SM: A Multilevel Cross-Modal Registration Framework Using Semantic Masks](../files/ICBSP.pdf)”, *in Proc.* 2024 9th International Conference on Biomedical Imaging, Signal Processing (**ACM ICBSP'24**) (EI), HongKong, China. [[pdf](../files/ICBSP.pdf)]
+1. **Kehong Liu**, Shuo Wu, Tianhuan Li, Xinlin Wang, and Zhang Guo, "[Non-Contact Heart Rate Estimation From Photoplethysmography Using EEMD and Convolution-Transformer Network](../files/CIVEMSA.pdf)", *in Proc.* 2024 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (**IEEE CIVESMA'24**) (EI), Xi'an, China. [[pdf](../files/CIVEMSA.pdf)]
+2. Wenbo Liu, Shuqing Sun, Yang Chen, **Kehong Liu**, Yingping Li, and Ying Zhang, “[MCMR-SM: A Multilevel Cross-Modal Registration Framework Using Semantic Masks](../files/ICBSP.pdf)”, *in Proc.* 2024 9th International Conference on Biomedical Imaging, Signal Processing (**ACM ICBSP'24**) (EI), HongKong, China. [[pdf](../files/ICBSP.pdf)]
 
    
 ## 2023
