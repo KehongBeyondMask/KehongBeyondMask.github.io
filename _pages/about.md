@@ -32,7 +32,7 @@ wechat: lkh_2046
 # Publications and Patent
 
 ## 2026
-1. **Kehong Liu**, Yang Liu, Jiming Liu, "PH-EMO: Decoding Emotions from the Brain Inward EEG-Grounded Multimodal Reasoning with LLMs", **ACM Web Conference (WWW'26)**. [[code](https://github.com/KehongBeyondMask/PH-EMO)]
+1. **Kehong Liu**, Yang Liu, Jiming Liu, "[PH-EMO: Decoding Emotions from the Brain Inward EEG-Grounded Multimodal Reasoning with LLMs](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)", **ACM Web Conference (WWW'26)**. [[pdf](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)] [[code](https://github.com/KehongBeyondMask/PH-EMO)]
 
 ## 2025
 1. **Kehong Liu\***,et al., "[PulseMamba: An Efficient Framework with Multi-Scale Fusion and Frequency Enhancement for Non-Contact Heart Rate Estimation](../assets/TCE.pdf)", **IEEE Transactions on Consumer Electronics** (JCR Q1). [[pdf](../files/TCE.pdf)]
