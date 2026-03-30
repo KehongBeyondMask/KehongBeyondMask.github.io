@@ -24,7 +24,6 @@ wechat: lkh_2046
 - Multimodal Large Language Models (MLLM).
 - Trustworthy AI
 - video/signal processing.
-<!--- Human-Robotic Interaction (HRI).-->
 - Internet-of-Things (IoT)
 
 
