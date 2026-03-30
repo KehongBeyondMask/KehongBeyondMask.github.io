@@ -20,10 +20,11 @@ wechat: lkh_2046
 <!-- You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).-->
 
 ## My research interestes include:
-- mobile/edge computing, affect computing, wearable sensors.
+<!-- - mobile/edge computing, affect computing, wearable sensors. -->
 - Multimodal Large Language Models (MLLM).
+- Trustworthy AI
 - video/signal processing.
-- Human-Robotic Interaction (HRI).
+<!--- Human-Robotic Interaction (HRI).-->
 - Internet-of-Things (IoT)
 
 
