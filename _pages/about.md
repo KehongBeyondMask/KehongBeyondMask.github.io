@@ -48,7 +48,7 @@ wechat: lkh_2046
 1. **Kehong Liu**, “A Medical Imaging Three-Dimensional Volume Reconstruction Device”, Application patent, No.CN216230776U, Authorized.
 
 
-<br><br>
+<!-- <br><br>
 # 📖 Education
 - 2023.09 - 2026.06, M.S. in Computer Science,: Xidian University, China
 - 2019.09 - 2023.06, B.E. in Computer Science,: Xi'an University of Science and Technology, China
@@ -71,5 +71,24 @@ wechat: lkh_2046
 
 <br><br>
 # 🦊 Miscellaneous 🛸
-- Some of my hobbies: running🏃‍♀️, biking🚵‍♀️, movie lover🎥, guitar🎸, video games🎮...
+- Some of my hobbies: running🏃‍♀️, biking🚵‍♀️, movie lover🎥, guitar🎸, video games🎮... -->
+
+## 📖 Education
+- 2023.09 - 2026.06, M.S. in Computer Science, Xidian University, China
+- 2019.09 - 2023.06, B.E. in Computer Science, Xi'an University of Science and Technology, China
+
+## 💻 Experience
+- 2025.08 - 2026.02, RA, Hong Kong Baptist University, Hong Kong
+- 2022.06 - 2022.08, Internship, ThoughtWorks, Beijing, China
+
+## ⛳ Honors
+- Outstanding Graduate of Shaanxi Province (2022)
+- First-Class Academic Scholarship for Postgraduate Students (2023/24/25)
+- Outstanding Postgraduate Student (2024/25)
+- Outstanding Postgraduate Student Leader (2024/25)
+- First-Class Academic Scholarship for Undergraduate Students (2020/21/22/23)
+- SunYueqi Energy Science and Technology Award - Outstanding Student Award (2022)
+
+## 🦊 Miscellaneous 🛸
+- Some of my hobbies: running 🏃‍♀️, biking 🚵‍♀️, movies 🎥, guitar 🎸, and video games 🎮
 
