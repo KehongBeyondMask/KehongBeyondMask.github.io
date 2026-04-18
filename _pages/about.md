@@ -29,6 +29,7 @@ wechat: lkh_2046
 
 **2026**
 1. **Kehong Liu**, Yang Liu, and Jiming Liu, "[PH-EMO: Decoding Emotions from the Brain Inward EEG-Grounded Multimodal Reasoning with LLMs](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)," **ACM Web Conference (WWW'26)** (CORE A*). [[pdf](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)] [[code](https://github.com/KehongBeyondMask/PH-EMO)]
+2. Hongan Li, Jiale Yang, **Kehong Liu**, "[PELR-GS: Perception-Enhanced Large-Scale 3D Reconstruction for View-Adaptive Renderin](https://link.springer.com/article/10.1007/s11227-026-08299-7)," **The Journal of Supercomputings** (CCF-C).
 
 **2025**
 1. **Kehong Liu**, et al., "[PulseMamba: An Efficient Framework with Multi-Scale Fusion and Frequency Enhancement for Non-Contact Heart Rate Estimation](../assets/TCE.pdf)," **IEEE Transactions on Consumer Electronics** (JCR Q1, IF=10.9). [[pdf](../files/TCE.pdf)]
