@@ -65,7 +65,7 @@ wechat: lkh_2046
 
 <br><br>
 # ⛳ Honors
-= Outstanding Graduate of Shaanxi Province (2022)
+- Outstanding Graduate of Shaanxi Province (2022)
 - First-Class Academic Scholarship for Postgraduate Students (2023/24/25)
 - Outstanding Postgraduate Student (2024/25)
 - Outstanding Postgraduate Student Leader (2024/25)
