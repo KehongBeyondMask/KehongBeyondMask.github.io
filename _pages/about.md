@@ -33,7 +33,7 @@ wechat: lkh_2046
 **2025**
 1. **Kehong Liu**, et al., "[PulseMamba: An Efficient Framework with Multi-Scale Fusion and Frequency Enhancement for Non-Contact Heart Rate Estimation](../assets/TCE.pdf)," **IEEE Transactions on Consumer Electronics** (JCR Q1, IF=10.9). [[pdf](../files/TCE.pdf)]
 2. Zhang Guo*, **Kehong Liu***, Hantao Zhao, Nuo Tong, Shuiping Gou, Wenbo Liu, Qigong Sun, and Licheng Jiao, "[Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video](../assets/TIM.pdf)," **IEEE Transactions on Industrial Informatics** (JCR Q1, IF=9.9), **(\* means co-first author and equal contributions, Zhang Guo is my supervisor, This paper is completed on my own🤫)**. [[pdf](../files/TII.pdf)]
-3. Xiaojian Liu, Zilin Qin, and **Kehong Liu***, "[µGAN: A Mutation-Based Cost-Optimal Adversarial Malware Generation Approach Against Evolving Android Malware Variants](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146094)," **Computers & Security** (JCR Q1, CCF-B, IF = 6.1). [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146094)]
+3. Xiaojian Liu, Zilin Qin, and **Kehong Liu***, "[µGAN: A Mutation-Based Cost-Optimal Adversarial Malware Generation Approach Against Evolving Android Malware Variants](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146094)," **Computers & Security** (JCR Q1, CCF-B, IF=6.1). [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146094)]
 
 **2024**
 1. **Kehong Liu**, Shuo Wu, Tianhuan Li, Xinlin Wang, and Zhang Guo, "[Non-Contact Heart Rate Estimation From Photoplethysmography Using EEMD and Convolution-Transformer Network](../files/CIVEMSA.pdf)," *in Proc. of* 2024 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (**IEEE CIVEMSA 2024**), Xi'an, China. [[pdf](../files/CIVEMSA.pdf)]
@@ -41,7 +41,7 @@ wechat: lkh_2046
 
 **2023**
 1. Xiaojian Liu and **Kehong Liu**, "[A Permission-Carrying Security Policy and Static Enforcement for Information Flows in Android Programs](../files/COSE.pdf)," **Computers & Security** (JCR Q1, CCF-B, IF = 6.1). *(Student first author)* [[pdf](../files/COSE.pdf)]
-2. **Kehong Liu**, "[STBi-YOLO: A Real-Time Object Detection Method for Lung Nodule Recognition](../files/STBi-YOLO.pdf)," **IEEE Access** (JCR Q2, IF = 3.9). [[pdf](../files/STBi-YOLO.pdf)]
+2. **Kehong Liu**, "[STBi-YOLO: A Real-Time Object Detection Method for Lung Nodule Recognition](../files/STBi-YOLO.pdf)," **IEEE Access** (JCR Q2, IF=3.9). [[pdf](../files/STBi-YOLO.pdf)]
 
 **Patents**
 1. **Kehong Liu**, "A Medical Imaging Three-Dimensional Volume Reconstruction Device," Chinese patent, No. CN216230776U, authorized.
