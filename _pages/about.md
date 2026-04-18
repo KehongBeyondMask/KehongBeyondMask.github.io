@@ -19,33 +19,34 @@ wechat: lkh_2046
 
 <!-- You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).-->
 
-## 🔍 My research interestes include:
-<!-- - mobile/edge computing, affect computing, wearable sensors. -->
-- Multimodal Large Language Models (MLLM).
+## 🔍 My research interests include
+- Multimodal Large Language Models (MLLM)
 - Trustworthy AI
-- video/signal processing.
-- Internet-of-Things (IoT)
+- Video and signal processing
+- Internet of Things (IoT)
 
-<br><br>
-# 📜 Publications
-## 2026
-1. **Kehong Liu**, Yang Liu, Jiming Liu, "[PH-EMO: Decoding Emotions from the Brain Inward EEG-Grounded Multimodal Reasoning with LLMs](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)", **ACM Web Conference (WWW'26)** (CORE A*). [[pdf](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)] [[code](https://github.com/KehongBeyondMask/PH-EMO)]
+## 📜 Publications
 
-## 2025
-1. **Kehong Liu\***,et al., "[PulseMamba: An Efficient Framework with Multi-Scale Fusion and Frequency Enhancement for Non-Contact Heart Rate Estimation](../assets/TCE.pdf)", **IEEE Transactions on Consumer Electronics** (JCR Q1, IF=10.9). [[pdf](../files/TCE.pdf)]
-2. Zhang Guo\*, **Kehong Liu\***, Hantao Zhao, Nuo Tong, sp gou, Wenbo Liu, Qigong Sun, and Licheng Jiao, "[Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video](../assets/TIM.pdf)", **IEEE Transactions on Industrial Informatics** (JCR Q1, IF=9.9), **(\* means co-first author and equal contributions, Zhang Guo is my supervisor, I write the whole paper and experiments on my own🤫)**. [[pdf](../files/TII.pdf)]
-3. Xiaojian Liu, Zilin Qin, **Kehong Liu\***, "[µGAN: A Mutation-Based Cost Optimal Adversarial Malware Generation Approach Against Evolving Android Malware Variants](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146094)", **Computers & Security** (JCR Q1, CCF-B, IF=6.1) [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146094)]
+**2026**
+1. **Kehong Liu**, Yang Liu, and Jiming Liu, "[PH-EMO: Decoding Emotions from the Brain Inward EEG-Grounded Multimodal Reasoning with LLMs](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)," **ACM Web Conference (WWW'26)** (CORE A*). [[pdf](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)] [[code](https://github.com/KehongBeyondMask/PH-EMO)]
 
-## 2024
-1. **Kehong Liu**, Shuo Wu, Tianhuan Li, Xinlin Wang, and Zhang Guo, "[Non-Contact Heart Rate Estimation From Photoplethysmography Using EEMD and Convolution-Transformer Network](../files/CIVEMSA.pdf)", *in Proc.* 2024 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (**IEEE CIVESMA'24**) (EI), Xi'an, China. [[pdf](../files/CIVEMSA.pdf)]
-2. Wenbo Liu, Shuqing Sun, Yang Chen, **Kehong Liu**, Yingping Li, and Ying Zhang, “[MCMR-SM: A Multilevel Cross-Modal Registration Framework Using Semantic Masks](../files/ICBSP.pdf)”, *in Proc.* 2024 9th International Conference on Biomedical Imaging, Signal Processing (**ACM ICBSP'24**) (EI), HongKong, China. [[pdf](../files/ICBSP.pdf)]
+**2025**
+1. **Kehong Liu***, et al., "[PulseMamba: An Efficient Framework with Multi-Scale Fusion and Frequency Enhancement for Non-Contact Heart Rate Estimation](../assets/TCE.pdf)," **IEEE Transactions on Consumer Electronics** (JCR Q1, IF = 10.9). [[pdf](../files/TCE.pdf)]
+2. Zhang Guo*, **Kehong Liu***, Hantao Zhao, Nuo Tong, Shuiping Gou, Wenbo Liu, Qigong Sun, and Licheng Jiao, "[Physiological Information-Guided Network for Heart Rate Estimation from Near-Infrared Facial Video](../assets/TIM.pdf)," **IEEE Transactions on Industrial Informatics** (JCR Q1, IF = 9.9). [[pdf](../files/TII.pdf)]
+3. Xiaojian Liu, Zilin Qin, and **Kehong Liu***, "[µGAN: A Mutation-Based Cost-Optimal Adversarial Malware Generation Approach Against Evolving Android Malware Variants](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146094)," **Computers & Security** (JCR Q1, CCF-B, IF = 6.1). [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146094)]
 
-## 2023
-1. Xiaojian Liu, **Kehong Liu**, “[A Permission-Carrying Security Policy and Static Enforcement for Information Flows in Android Programs](../files/COSE.pdf)”, **Computers & Security** (JCR Q1, CCF-B, IF=6.1)  **(student first author)**, vol.126, pp.103090, 2023. [[pdf](../files/COSE.pdf)]
-2. **Kehong Liu**, “[STBi-YOLO: A Real-Time Object Detection Method for Lung Nodule Recognition](../files/STBi-YOLO.pdf)”, **IEEE Access** (JCR Q2, IF=3.9), vol.10, pp.75385-75394, 2023. [[pdf](../files/STBi-YOLO.pdf)]
+* indicates equal contribution.
 
-## Patents
-1. **Kehong Liu**, “A Medical Imaging Three-Dimensional Volume Reconstruction Device”, Application patent, No.CN216230776U, Authorized.
+**2024**
+1. **Kehong Liu**, Shuo Wu, Tianhuan Li, Xinlin Wang, and Zhang Guo, "[Non-Contact Heart Rate Estimation From Photoplethysmography Using EEMD and Convolution-Transformer Network](../files/CIVEMSA.pdf)," *in Proc. of* 2024 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (**IEEE CIVEMSA 2024**), Xi'an, China. [[pdf](../files/CIVEMSA.pdf)]
+2. Wenbo Liu, Shuqing Sun, Yang Chen, **Kehong Liu**, Yingping Li, and Ying Zhang, "[MCMR-SM: A Multilevel Cross-Modal Registration Framework Using Semantic Masks](../files/ICBSP.pdf)," *in Proc. of* 2024 9th International Conference on Biomedical Imaging, Signal Processing (**ACM ICBSP 2024**), Hong Kong, China. [[pdf](../files/ICBSP.pdf)]
+
+**2023**
+1. Xiaojian Liu and **Kehong Liu**, "[A Permission-Carrying Security Policy and Static Enforcement for Information Flows in Android Programs](../files/COSE.pdf)," **Computers & Security** (JCR Q1, CCF-B, IF = 6.1), vol. 126, pp. 103090, 2023. *(Student first author)* [[pdf](../files/COSE.pdf)]
+2. **Kehong Liu**, "[STBi-YOLO: A Real-Time Object Detection Method for Lung Nodule Recognition](../files/STBi-YOLO.pdf)," **IEEE Access** (JCR Q2, IF = 3.9), vol. 10, pp. 75385-75394, 2023. [[pdf](../files/STBi-YOLO.pdf)]
+
+**Patents**
+1. **Kehong Liu**, "A Medical Imaging Three-Dimensional Volume Reconstruction Device," Chinese patent, No. CN216230776U, authorized.
 
 
 <!-- <br><br>
