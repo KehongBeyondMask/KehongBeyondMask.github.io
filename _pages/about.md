@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. Before that, I obtained my B.E in computer science in 2023 from [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
+I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. Before that, I obtained my B.E. in Computer Science in 2023 from [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
 
 I'm expected to graduate in June, 2026. Now I'm working at Hong Kong Baptist University as a research assistant with Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
 
@@ -74,8 +74,10 @@ wechat: lkh_2046
 - Some of my hobbies: running🏃‍♀️, biking🚵‍♀️, movie lover🎥, guitar🎸, video games🎮... -->
 
 ## 📖 Education
-- 2023.09 - 2026.06, M.S. in Computer Science, Xidian University, China (GPA **4.0**/4.0, rank **1**/300)
-- 2019.09 - 2023.06, B.E. in Computer Science, Xi'an University of Science and Technology, China (GPA **4.43**/5.0, rank **1**/133)
+- 2023.09 - 2026.06, M.S. in CS, Xidian University, China
+-- (GPA **4.0**/4.0, rank **1**/300)
+- 2019.09 - 2023.06, B.E. in CS, Xi'an University of Science and Technology, China
+-- (GPA **4.43**/5.0, rank **1**/133)
 
 ## 💻 Experience
 - 2025.08 - 2026.02, RA, Hong Kong Baptist University, Hong Kong
