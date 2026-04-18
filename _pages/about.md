@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+# 👀 About Me
 I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. Before that, I obtained my B.E in computer science in 2023 from [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
 
 I'm expected to graduate in June, 2026. Now I'm working at Hong Kong Baptist University as a research assistant with Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
 
-<font color='red'> I'm actively seeking PhD position in 26 Fall. </font>
+<font color='red'> I'm actively seeking PhD position in 26 Fall / 27 Spring. </font>
 
 
 wechat: lkh_2046
@@ -19,7 +20,7 @@ wechat: lkh_2046
 
 <!-- You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).-->
 
-## My research interestes include:
+## 🔍 My research interestes include:
 <!-- - mobile/edge computing, affect computing, wearable sensors. -->
 - Multimodal Large Language Models (MLLM).
 - Trustworthy AI
@@ -29,10 +30,10 @@ wechat: lkh_2046
 
 <br><br>
 
-# Publications and Patent
+# 📜 Publications
 
 ## 2026
-1. **Kehong Liu**, Yang Liu, Jiming Liu, "[PH-EMO: Decoding Emotions from the Brain Inward EEG-Grounded Multimodal Reasoning with LLMs](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)", **ACM Web Conference (WWW'26)**. [[pdf](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)] [[code](https://github.com/KehongBeyondMask/PH-EMO)]
+1. **Kehong Liu**, Yang Liu, Jiming Liu, "[PH-EMO: Decoding Emotions from the Brain Inward EEG-Grounded Multimodal Reasoning with LLMs](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)", **ACM Web Conference (WWW'26)** (CORE A*). [[pdf](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)] [[code](https://github.com/KehongBeyondMask/PH-EMO)]
 
 ## 2025
 1. **Kehong Liu\***,et al., "[PulseMamba: An Efficient Framework with Multi-Scale Fusion and Frequency Enhancement for Non-Contact Heart Rate Estimation](../assets/TCE.pdf)", **IEEE Transactions on Consumer Electronics** (JCR Q1, IF=10.9). [[pdf](../files/TCE.pdf)]
@@ -53,6 +54,17 @@ wechat: lkh_2046
 
 
 <br><br>
-# Miscellaneous
+# 📖 Education
+- 2023.09 - 2026.06, M.S. in Computer Science,: Xidian University, China
+- 2019.09 - 2023.06, B.E. in Computer Science,: Xi'an University of Science and Technology, China
+
+<br><br>
+# 💻 Experience
+- 2025.08 - 2026.02, RA: Hong Kong Baptist University, Hong Kong
+- 2022.06 - 2022.08, Internship: ThoughtWorks, Beijing, China
+
+
+<br><br>
+# 🦊 Miscellaneous 🛸
 - Some of my hobbies: running🏃‍♀️, biking🚵‍♀️, movie lover🎥, guitar🎸, video games🎮...
 
