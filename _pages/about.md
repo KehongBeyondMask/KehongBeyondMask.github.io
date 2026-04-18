@@ -37,8 +37,8 @@ wechat: lkh_2046
 3. Xiaojian Liu, Zilin Qin, and **Kehong Liu***, "[µGAN: A Mutation-Based Cost-Optimal Adversarial Malware Generation Approach Against Evolving Android Malware Variants](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146094)," **Computers & Security** (JCR Q1, CCF-B, IF=6.1). [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146094)]
 
 **2024**
-1. **Kehong Liu**, Shuo Wu, Tianhuan Li, Xinlin Wang, and Zhang Guo, "[Non-Contact Heart Rate Estimation From Photoplethysmography Using EEMD and Convolution-Transformer Network](../files/CIVEMSA.pdf)," *in Proc. of* 2024 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (**IEEE CIVEMSA 2024**), Xi'an, China. [[pdf](../files/CIVEMSA.pdf)]
-2. Wenbo Liu, Shuqing Sun, Yang Chen, **Kehong Liu**, Yingping Li, and Ying Zhang, "[MCMR-SM: A Multilevel Cross-Modal Registration Framework Using Semantic Masks](../files/ICBSP.pdf)," *in Proc. of* 2024 9th International Conference on Biomedical Imaging, Signal Processing (**ACM ICBSP 2024**), Hong Kong, China. [[pdf](../files/ICBSP.pdf)]
+1. **Kehong Liu**, Shuo Wu, Tianhuan Li, Xinlin Wang, and Zhang Guo, "[Non-Contact Heart Rate Estimation From Photoplethysmography Using EEMD and Convolution-Transformer Network](../files/CIVEMSA.pdf)," *in Proc.* 2024 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (**IEEE CIVEMSA 2024**), Xi'an, China. [[pdf](../files/CIVEMSA.pdf)]
+2. Wenbo Liu, Shuqing Sun, Yang Chen, **Kehong Liu**, Yingping Li, and Ying Zhang, "[MCMR-SM: A Multilevel Cross-Modal Registration Framework Using Semantic Masks](../files/ICBSP.pdf)," *in Proc.* 2024 9th International Conference on Biomedical Imaging, Signal Processing (**ACM ICBSP 2024**), Hong Kong, China. [[pdf](../files/ICBSP.pdf)]
 
 **2023**
 1. Xiaojian Liu and **Kehong Liu**, "[A Permission-Carrying Security Policy and Static Enforcement for Information Flows in Android Programs](../files/COSE.pdf)," **Computers & Security** (JCR Q1, CCF-B, IF = 6.1). *(Student first author)* [[pdf](../files/COSE.pdf)]
