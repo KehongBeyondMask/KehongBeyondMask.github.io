@@ -75,9 +75,9 @@ wechat: lkh_2046
 
 ## 📖 Education
 - 2023.09 - 2026.06, M.S. in CS, Xidian University, China
--- (GPA **4.0**/4.0, rank **1**/300)
+  - (GPA **4.0**/4.0, rank **1**/300)
 - 2019.09 - 2023.06, B.E. in CS, Xi'an University of Science and Technology, China
--- (GPA **4.43**/5.0, rank **1**/133)
+  - (GPA **4.43**/5.0, rank **1**/133)
 
 ## 💻 Experience
 - 2025.08 - 2026.02, RA, Hong Kong Baptist University, Hong Kong
