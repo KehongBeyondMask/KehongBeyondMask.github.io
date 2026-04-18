@@ -25,10 +25,7 @@ wechat: lkh_2046
 - Trustworthy AI
 - video/signal processing.
 - Internet-of-Things (IoT)
-
-
 <br><br>
-
 # 📜 Publications
 
 ## 2026
