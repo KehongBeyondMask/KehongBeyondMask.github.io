@@ -74,8 +74,8 @@ wechat: lkh_2046
 - Some of my hobbies: running🏃‍♀️, biking🚵‍♀️, movie lover🎥, guitar🎸, video games🎮... -->
 
 ## 📖 Education
-- 2023.09 - 2026.06, M.S. in Computer Science, Xidian University, China
-- 2019.09 - 2023.06, B.E. in Computer Science, Xi'an University of Science and Technology, China
+- 2023.09 - 2026.06, M.S. in Computer Science, Xidian University, China (GPA **4.0**/4.0, rank **1**/300)
+- 2019.09 - 2023.06, B.E. in Computer Science, Xi'an University of Science and Technology, China (GPA **4.43**/5.0, rank **1**/133)
 
 ## 💻 Experience
 - 2025.08 - 2026.02, RA, Hong Kong Baptist University, Hong Kong
