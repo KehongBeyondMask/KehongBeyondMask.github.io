@@ -25,6 +25,7 @@ wechat: lkh_2046
 - Trustworthy AI
 - video/signal processing.
 - Internet-of-Things (IoT)
+
 <br><br>
 # 📜 Publications
 ## 2026
@@ -41,14 +42,17 @@ wechat: lkh_2046
 2. **Kehong Liu**, “[STBi-YOLO: A Real-Time Object Detection Method for Lung Nodule Recognition](../files/STBi-YOLO.pdf)”, **IEEE Access** (JCR Q2, IF=3.9), vol.10, pp.75385-75394, 2023. [[pdf](../files/STBi-YOLO.pdf)]
 ## Patents
 1. **Kehong Liu**, “A Medical Imaging Three-Dimensional Volume Reconstruction Device”, Application patent, No.CN216230776U, Authorized.
+
 <br><br>
 # 📖 Education
 - 2023.09 - 2026.06, M.S. in Computer Science,: Xidian University, China
 - 2019.09 - 2023.06, B.E. in Computer Science,: Xi'an University of Science and Technology, China
+
 <br><br>
 # 💻 Experience
 - 2025.08 - 2026.02, RA: Hong Kong Baptist University, Hong Kong
 - 2022.06 - 2022.08, Internship: ThoughtWorks, Beijing, China
+
 <br><br>
 # ⛳ Honors
 - Outstanding Graduate of Shaanxi Province (2022)
@@ -57,6 +61,7 @@ wechat: lkh_2046
 - Outstanding Postgraduate Student Leader (2024/25)
 - First-Class Academic Scholarship for Undergraduate Students (2020/21/22/23)
 - SunYueqi Energy Science and Technology Award- Outstanding Student Award (2022)
+
 <br><br>
 # 🦊 Miscellaneous 🛸
 - Some of my hobbies: running🏃‍♀️, biking🚵‍♀️, movie lover🎥, guitar🎸, video games🎮...
