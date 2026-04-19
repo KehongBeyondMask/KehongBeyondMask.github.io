@@ -9,9 +9,7 @@ redirect_from:
 
 I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. Before that, I obtained my B.E. in Computer Science in 2023 from [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
 
-I'm expected to graduate in June, 2026. Now I'm working at Hong Kong Baptist University as a research assistant with Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
-
-<font color='red'> I'm actively seeking PhD position in 26 Fall / 27 Spring. </font>
+I'm expected to graduate in June, 2026. <font color='red'> I'm actively seeking PhD position in 26 Fall / 27 Spring. </font>
 
 
 wechat: lkh_2046
@@ -21,8 +19,9 @@ wechat: lkh_2046
 
 ## 🔍 My research interests include
 - Multimodal Large Language Models (MLLM)
-- Trustworthy AI
-- Video and signal processing
+- Generative AI
+- Video Understanding
+- Image and Signal Processing
 - Internet of Things (IoT)
 
 ## 📜 Publications
@@ -80,7 +79,7 @@ wechat: lkh_2046
   - (GPA **4.43**/5.0, rank **1**/133)
 
 ## 💻 Experience
-- 2025.08 - 2026.02, RA, Hong Kong Baptist University, Hong Kong
+- 2025.08 - 2026.02, RA, Hong Kong Baptist University, supervised by Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
 - 2022.06 - 2022.08, Internship, ThoughtWorks, Beijing, China
 
 ## ⛳ Honors
