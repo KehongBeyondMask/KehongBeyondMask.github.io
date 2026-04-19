@@ -90,6 +90,10 @@ I'm expected to graduate in June, 2026. <font color='red'> I'm actively seeking 
 - First-Class Academic Scholarship for Undergraduate Students (2020/21/22/23)
 - SunYueqi Energy Science and Technology Award - Outstanding Student Award (2022)
 
+## ☑️ Language
+- English: IELTS: 7.0(L:7.0, R:8.0, W:6.0, S:6.0), CET-6: 601
+- Mandarin: Native
+
 ## 🦊 Miscellaneous 🛸
 - Some of my hobbies: running 🏃‍♀️, biking 🚵‍♀️, movies 🎥, guitar 🎸, and video games 🎮
 
