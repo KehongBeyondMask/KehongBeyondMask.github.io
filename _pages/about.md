@@ -40,7 +40,7 @@ I'm expected to graduate in June, 2026. <font color='red'> I'm actively seeking 
 2. Wenbo Liu, Shuqing Sun, Yang Chen, **Kehong Liu**, Yingping Li, and Ying Zhang, "[MCMR-SM: A Multilevel Cross-Modal Registration Framework Using Semantic Masks](../files/ICBSP.pdf)," *in Proc.* 2024 9th International Conference on Biomedical Imaging, Signal Processing (**ACM ICBSP 2024**), Hong Kong, China. [[pdf](../files/ICBSP.pdf)]
 
 **2023**
-1. Xiaojian Liu and **Kehong Liu**, "[A Permission-Carrying Security Policy and Static Enforcement for Information Flows in Android Programs](../files/COSE.pdf)," **Computers & Security** (JCR Q1, CCF-B, IF = 6.1). *(Student first author)* [[pdf](../files/COSE.pdf)]
+1. Xiaojian Liu and **Kehong Liu**, "[A Permission-Carrying Security Policy and Static Enforcement for Information Flows in Android Programs](../files/COSE.pdf)," **Computers & Security** (JCR Q1, CCF-B, IF=6.1). *(Student first author)* [[pdf](../files/COSE.pdf)]
 2. **Kehong Liu**, "[STBi-YOLO: A Real-Time Object Detection Method for Lung Nodule Recognition](../files/STBi-YOLO.pdf)," **IEEE Access** (JCR Q2, IF=3.9). [[pdf](../files/STBi-YOLO.pdf)]
 
 **Patents**
