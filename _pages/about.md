@@ -12,7 +12,7 @@ I'm a third year research master student from [Xidian University](https://en.xid
 I'm expected to graduate in June, 2026. <font color='red'> I'm actively seeking PhD position in 26 Fall / 27 Spring. </font>
 
 
-wechat: lkh_2046
+<!-- wechat: lkh_2046 -->
 <!-- I am currently advised by [Prof. Shuiping Gou](https://scholar.google.com/citations?user=QdUISv8AAAAJ&hl=zh-CN) from Key Lab of IPIU. -->
 
 <!-- You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).-->
