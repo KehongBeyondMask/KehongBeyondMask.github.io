@@ -18,10 +18,10 @@ I'm expected to graduate in June, 2026. <font color='red'> I'm actively seeking 
 <!-- You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).-->
 
 ## 🔍 My research interests include
-- Multimodal Large Language Models (MLLM)
+- Signal Processing
 - Generative AI
 - Video Understanding
-- Image and Signal Processing
+- Multimodal Large Language Models (MLLM)
 - Internet of Things (IoT)
 
 ## 📜 Publications
