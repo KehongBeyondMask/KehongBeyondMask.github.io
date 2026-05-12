@@ -20,6 +20,7 @@ I'm expected to graduate in June, 2026. <font color='red'> I'm actively seeking 
 ## 🔍 My research interests include
 - Signal Processing
 - Generative AI
+- Wireless Sensors
 - Video Understanding
 - Multimodal Large Language Models (MLLM)
 - Internet of Things (IoT)
