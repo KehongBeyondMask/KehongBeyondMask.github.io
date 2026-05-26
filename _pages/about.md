@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!--I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. -->
-Hi there, I'm Kehong Liu, A
+Hi there, I'm Kehong Liu.
 In 2023, I obtained my B.E. in Computer Science rom [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
 
 <!--I'm expected to graduate in June, 2026.-->
