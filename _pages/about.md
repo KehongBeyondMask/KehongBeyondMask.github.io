@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. Before that, I obtained my B.E. in Computer Science in 2023 from [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
+<!--I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. -->
+Hi there, I'm Kehong Liu, A
+In 2023, I obtained my B.E. in Computer Science rom [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
 
-I'm expected to graduate in June, 2026. <font color='red'> I'm actively seeking PhD position in 26 Fall / 27 Spring. </font>
+<!--I'm expected to graduate in June, 2026.-->
+<font color='red'> I'm actively seeking PhD position in 26 Fall / 27 Spring. </font>
 
 
 <!-- wechat: lkh_2046 -->
@@ -52,7 +55,7 @@ I'm expected to graduate in June, 2026. <font color='red'> I'm actively seeking 
 # 📖 Education
 - 2023.09 - 2026.06, M.S. in Computer Science,: Xidian University, China
 - 2019.09 - 2023.06, B.E. in Computer Science,: Xi'an University of Science and Technology, China
-
+-->
 
 <br><br>
 # 💻 Experience
@@ -72,7 +75,7 @@ I'm expected to graduate in June, 2026. <font color='red'> I'm actively seeking 
 <br><br>
 # 🦊 Miscellaneous 🛸
 - Some of my hobbies: running🏃‍♀️, biking🚵‍♀️, movie lover🎥, guitar🎸, video games🎮... -->
-
+<!--
 ## 📖 Education
 - 2023.09 - 2026.06, M.S. in CS, Xidian University, China
   - (GPA **4.0**/4.0, rank **1**/180)
