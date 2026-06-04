@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<!--I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. -->
-Hi there, I'm Kehong Liu.
+I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. 
+<!--Hi there, I'm Kehong Liu.-->
 In 2023, I obtained my B.E. in Computer Science rom [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
 
 <!--I'm expected to graduate in June, 2026.-->
@@ -51,15 +51,16 @@ In 2023, I obtained my B.E. in Computer Science rom [Xi'an University of Science
 1. **Kehong Liu**, "A Medical Imaging Three-Dimensional Volume Reconstruction Device," Chinese patent, No. CN216230776U, authorized.
 
 
-<!-- <br><br>
+<br><br>
 # 📖 Education
-- 2023.09 - 2026.06, M.S. in Computer Science,: Xidian University, China
+- 2023.09 - 2026.08, M.S. in Computer Science,: Xidian University, China
 - 2019.09 - 2023.06, B.E. in Computer Science,: Xi'an University of Science and Technology, China
--->
+
 
 <br><br>
 # 💻 Experience
 - 2025.08 - 2026.02, RA: Hong Kong Baptist University, Hong Kong
+- 2023.09 - 2024.03, Internship: SenseTime, Shanghai, China
 - 2022.06 - 2022.08, Internship: ThoughtWorks, Beijing, China
 
 
