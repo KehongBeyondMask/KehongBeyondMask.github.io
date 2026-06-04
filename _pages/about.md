@@ -11,7 +11,7 @@ I'm a third year research master student from [Xidian University](https://en.xid
 <!--Hi there, I'm Kehong Liu.-->
 
 
-<!--I'm expected to graduate in June, 2026.-->
+I'm expected to graduate in August, 2026.
 <font color='red'> I'm actively seeking PhD position in 26 Fall / 27 Spring. </font>
 
 
