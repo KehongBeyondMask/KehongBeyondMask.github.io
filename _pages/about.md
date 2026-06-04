@@ -59,7 +59,7 @@ I'm expected to graduate in August, 2026.
 
 <br><br>
 # 💻 Experience
-- 2025.08 - 2026.02, RA: Hong Kong Baptist University, Hong Kong
+- 2025.08 - 2026.02, RA: Hong Kong Baptist University, Hong Kong (Supervisor: [Prof. Yang Liu](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=csygliu))
 - 2023.09 - 2024.03, Internship: SenseTime, Shanghai, China
 - 2022.06 - 2022.08, Internship: ThoughtWorks, Beijing, China
 
