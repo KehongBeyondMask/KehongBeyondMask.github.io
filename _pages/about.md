@@ -52,7 +52,7 @@ I'm expected to graduate in August, 2026.
 
 
 ## 📖 Education
-- 2023.09 - 2026.06, M.S. in CS, Xidian University, China
+- 2023.09 - 2026.08, M.S. in CS, Xidian University, China
   - (GPA **4.0**/4.0, rank **1**/180)
 - 2019.09 - 2023.06, B.E. in CS, Xi'an University of Science and Technology, China
   - (GPA **4.43**/5.0, rank **1**/133)
