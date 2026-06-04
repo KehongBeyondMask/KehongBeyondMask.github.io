@@ -24,7 +24,7 @@ I'm expected to graduate in August, 2026.
 - Signal Processing
 - Generative AI
 - Wireless Sensors
-- Video Understanding
+- Edge Computing
 - Multimodal Large Language Models (MLLM)
 - Internet of Things (IoT)
 
