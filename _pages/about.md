@@ -53,8 +53,8 @@ I'm expected to graduate in August, 2026.
 
 <br><br>
 # 📖 Education
-- 2023.09 - 2026.08, M.S. in Computer Science,: Xidian University, China
-- 2019.09 - 2023.06, B.E. in Computer Science,: Xi'an University of Science and Technology, China
+- 2023.09 - 2026.08, M.S. in Computer Science: Xidian University, China
+- 2019.09 - 2023.06, B.E. in Computer Science: Xi'an University of Science and Technology, China
 
 
 <br><br>
