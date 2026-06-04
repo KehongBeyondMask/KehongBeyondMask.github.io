@@ -51,32 +51,6 @@ I'm expected to graduate in August, 2026.
 1. **Kehong Liu**, "A Medical Imaging Three-Dimensional Volume Reconstruction Device," Chinese patent, No. CN216230776U, authorized.
 
 
-<br><br>
-# 📖 Education
-- 2023.09 - 2026.08, M.S. in Computer Science: Xidian University, China
-- 2019.09 - 2023.06, B.E. in Computer Science: Xi'an University of Science and Technology, China
-
-
-<br><br>
-# 💻 Experience
-- 2025.08 - 2026.02, RA: Hong Kong Baptist University, Hong Kong (Supervisor: [Prof. Yang Liu](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=csygliu))
-- 2023.09 - 2024.03, Internship: SenseTime, Shanghai, China
-- 2022.06 - 2022.08, Internship: ThoughtWorks, Beijing, China
-
-
-<br><br>
-# ⛳ Honors
-- Outstanding Graduate of Shaanxi Province (2022)
-- First-Class Academic Scholarship for Postgraduate Students (2023/24/25)
-- Outstanding Postgraduate Student (2024/25)
-- Outstanding Postgraduate Student Leader (2024/25)
-- First-Class Academic Scholarship for Undergraduate Students (2020/21/22/23)
-- SunYueqi Energy Science and Technology Award- Outstanding Student Award (2022)
-
-<br><br>
-# 🦊 Miscellaneous 🛸
-- Some of my hobbies: running🏃‍♀️, biking🚵‍♀️, movie lover🎥, guitar🎸, video games🎮... -->
-<!--
 ## 📖 Education
 - 2023.09 - 2026.06, M.S. in CS, Xidian University, China
   - (GPA **4.0**/4.0, rank **1**/180)
