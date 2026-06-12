@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. In 2023, I obtained my B.E. in Computer Science rom [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
+I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. In 2023, I obtained my B.E. in Computer Science from [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
 <!--Hi there, I'm Kehong Liu.-->
 
 
-I'm expected to graduate in August, 2026.
-<!-- <font color='red'> I'm actively seeking PhD position in 26 Fall / 27 Spring. </font>-->
+<!-- I'm expected to graduate in August, 2026.
+ <font color='red'> I'm actively seeking PhD position in 26 Fall / 27 Spring. </font>-->
 
 
 <!-- wechat: lkh_2046 -->
@@ -32,7 +32,7 @@ I'm expected to graduate in August, 2026.
 
 **2026**
 1. **Kehong Liu**, Yang Liu, and Jiming Liu, "[PH-EMO: Decoding Emotions from the Brain Inward EEG-Grounded Multimodal Reasoning with LLMs](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)," **ACM Web Conference (WWW'26)** (CORE A*). [[pdf](https://github.com/KehongBeyondMask/PH-EMO/blob/main/phemo_www26.pdf)] [[code](https://github.com/KehongBeyondMask/PH-EMO)]
-2. Hongan Li, Jiale Yang, **Kehong Liu**, "[PELR-GS: Perception-Enhanced Large-Scale 3D Reconstruction for View-Adaptive Renderin](https://link.springer.com/article/10.1007/s11227-026-08299-7)," **The Journal of Supercomputings** (CCF-C).
+2. Hongan Li, Jiale Yang, **Kehong Liu**, "[PELR-GS: Perception-Enhanced Large-Scale 3D Reconstruction for View-Adaptive Rendering](https://link.springer.com/article/10.1007/s11227-026-08299-7)," **The Journal of Supercomputing** (CCF-C).
 
 **2025**
 1. **Kehong Liu**, et al., "[PulseMamba: An Efficient Framework with Multi-Scale Fusion and Frequency Enhancement for Non-Contact Heart Rate Estimation](../assets/TCE.pdf)," **IEEE Transactions on Consumer Electronics** (JCR Q1, IF=10.9). [[pdf](../files/TCE.pdf)]
