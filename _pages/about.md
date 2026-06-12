@@ -12,7 +12,7 @@ I'm a third year research master student from [Xidian University](https://en.xid
 
 
 I'm expected to graduate in August, 2026.
-<font color='red'> I'm actively seeking PhD position in 26 Fall / 27 Spring. </font>
+<!-- <font color='red'> I'm actively seeking PhD position in 26 Fall / 27 Spring. </font>-->
 
 
 <!-- wechat: lkh_2046 -->
