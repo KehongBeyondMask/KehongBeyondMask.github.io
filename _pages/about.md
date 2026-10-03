@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year master student from [Xidian University](https://en.xidian.edu.cn/), China. In 2023, I obtained my B.E. in Computer Science from [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China. Previously, I was a Research Assistant working with Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
+I'm a third year master student from [Xidian University](https://en.xidian.edu.cn/), China. In 2023, I obtained my B.E. in Computer Science from [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China. Previously, I was a Research Assistant in Hong Kong Baptist University working with Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
 <!--Hi there, I'm Kehong Liu.-->
 
 
