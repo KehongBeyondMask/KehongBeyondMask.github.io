@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year research master student from [Xidian University](https://en.xidian.edu.cn/), [Key lab of IPIU](https://sai.xidian.edu.cn/index.htm), China. In 2023, I obtained my B.E. in Computer Science from [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China.
+I'm a third year master student from [Xidian University](https://en.xidian.edu.cn/), China. In 2023, I obtained my B.E. in Computer Science from [Xi'an University of Science and Technology](https://www.xust.edu.cn/), China. Previously, I was a Research Assistant working with Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
 <!--Hi there, I'm Kehong Liu.-->
 
 
@@ -16,17 +16,16 @@ I'm a third year research master student from [Xidian University](https://en.xid
 
 
 <!-- wechat: lkh_2046 -->
-<!-- I am currently advised by [Prof. Shuiping Gou](https://scholar.google.com/citations?user=QdUISv8AAAAJ&hl=zh-CN) from Key Lab of IPIU. -->
 
 <!-- You can find my CV here: [Kehong Liu's Curriculum Vitae](../assets/CV.pdf).-->
 
 ## 🔍 My research interests include
-- Signal Processing
+- Video Processing
 - Generative AI
 - Wireless Sensors
-- Edge Computing
+<!--- Edge Computing 
 - Multimodal Large Language Models (MLLM)
-- Internet of Things (IoT)
+- Internet of Things (IoT) -->
 
 ## 📜 Publications
 
