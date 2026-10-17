@@ -23,9 +23,7 @@ I'm a third year master student from [Xidian University](https://en.xidian.edu.c
 - Video Processing
 - Generative AI
 - Wireless Sensors
-<!--- Edge Computing 
-- Multimodal Large Language Models (MLLM)
-- Internet of Things (IoT) -->
+
 
 ## 📜 Publications
 
