@@ -76,19 +76,14 @@ I'm a first year phd student at the [University of Bristol](https://www.bristol.
 
 
 <div style="margin-top: 24px; font-size: 16px; color: #888;">
-  <span id="busuanzi_container_site_uv" style="display: none;">
-    👤 Total Visitors:
-    <span id="busuanzi_value_site_uv"></span>
-  </span>
-
-  <span id="busuanzi_container_site_pv" style="display: none; margin-left: 12px;">
-    👁️ Total Views:
-    <span id="busuanzi_value_site_pv"></span>
-  </span>
+  👤 Total Visitors:
+  <span id="busuanzi_value_site_uv">--</span>
+  <span style="margin: 0 8px;">|</span>
+  👁️ Total Views:
+  <span id="busuanzi_value_site_pv">--</span>
 </div>
 
-<script
-  async
+<script async
   src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 
