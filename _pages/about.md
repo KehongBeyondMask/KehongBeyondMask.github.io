@@ -74,13 +74,3 @@ I'm a first year phd student at the [University of Bristol](https://www.bristol.
 ## 🦊 Miscellaneous 🛸
 - Some of my hobbies: running 🏃‍♀️, biking 🚵‍♀️, movies 🎥, guitar 🎸, and video games 🎮
 
-
-<div style="width: 260px; max-width: 100%; margin: 24px auto;">
-  <a href="https://mapmyvisitors.com/web/1c984"
-     title="Visitor Map">
-    <img
-      src="https://mapmyvisitors.com/map.png?d=qrSsyqoId8xdBbuh2RRV3A58m2qNHCZCjWcuQevm1aA&cl=ffffff"
-      alt="Visitor Map"
-      style="display: block; width: 100%; height: auto; border: 0;">
-  </a>
-</div>
