@@ -75,5 +75,12 @@ I'm a first year phd student at the [University of Bristol](https://www.bristol.
 - Some of my hobbies: running 🏃‍♀️, biking 🚵‍♀️, movies 🎥, guitar 🎸, and video games 🎮
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=qrSsyqoId8xdBbuh2RRV3A58m2qNHCZCjWcuQevm1aA&cl=ffffff&w=a"></script>
+<h2>🌍 Visitors</h2>
 
+<div style="max-width: 500px; margin: 24px auto;">
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=qrSsyqoId8xdBbuh2RRV3A58m2qNHCZCjWcuQevm1aA&cl=ffffff&w=a">
+  </script>
+</div>
