@@ -74,3 +74,21 @@ I'm a first year phd student at the [University of Bristol](https://www.bristol.
 ## 🦊 Miscellaneous 🛸
 - Some of my hobbies: running 🏃‍♀️, biking 🚵‍♀️, movies 🎥, guitar 🎸, and video games 🎮
 
+
+<div style="margin-top: 24px; font-size: 16px; color: #888;">
+  <span id="busuanzi_container_site_uv" style="display: none;">
+    👤 Total Visitors:
+    <span id="busuanzi_value_site_uv"></span>
+  </span>
+
+  <span id="busuanzi_container_site_pv" style="display: none; margin-left: 12px;">
+    👁️ Total Views:
+    <span id="busuanzi_value_site_pv"></span>
+  </span>
+</div>
+
+<script
+  async
+  src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+
