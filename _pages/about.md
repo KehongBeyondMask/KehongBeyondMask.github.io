@@ -68,7 +68,7 @@ I'm a first year CS PhD at the [University of Bristol](https://www.bristol.ac.uk
 - SunYueqi Energy Science and Technology Award - Outstanding Student Award (2022)
 
 ## ☑️ Language
-- English: IELTS: 7.0(L:7.0, R:8.0, W:6.0, S:6.0), CET-6: 601
+- English: IELTS: 7.5 (L:8.5, R:8.0, W:6.5, S:6.5), CET-6: 601
 - Mandarin: Native
 
 ## 🦊 Miscellaneous 🛸
