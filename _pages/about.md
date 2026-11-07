@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year phd student at the [University of Bristol](https://www.bristol.ac.uk/), under the supervision of Prof. [Aaron Zhang](https://fan-aaron-zhang.github.io/). Previously, I was a Research Assistant in Hong Kong Baptist University working with Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
+I'm a first year CS PhD at the [University of Bristol](https://www.bristol.ac.uk/), under the supervision of Prof. [Aaron Zhang](https://fan-aaron-zhang.github.io/). Previously, I was a Research Assistant in Hong Kong Baptist University working with Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
 <!--Hi there, I'm Kehong Liu.-->
 
 
@@ -50,13 +50,13 @@ I'm a first year phd student at the [University of Bristol](https://www.bristol.
 
 
 ## 📖 Education
-- 2023.09 - 2026.08, M.S. in CS, Xidian University, China
+- 2023.09 - 2026.08, M.S. in Computer Science, Xidian University, China
   - (GPA **4.0**/4.0, rank **1**/180)
-- 2019.09 - 2023.06, B.E. in CS, Xi'an University of Science and Technology, China
+- 2019.09 - 2023.06, B.E. in Computer Science, Xi'an University of Science and Technology, China
   - (GPA **4.43**/5.0, rank **1**/133)
 
 ## 💻 Experience
-- 2025.08 - 2026.02, RA, Hong Kong Baptist University, supervised by Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
+- 2025.08 - 2026.02, Research Assistant, Hong Kong Baptist University, supervised by Prof. [Yang Liu](https://scholars.hkbu.edu.hk/en/persons/CSYGLIU).
 - 2022.06 - 2022.08, Internship, ThoughtWorks, Beijing, China
 
 ## ⛳ Honors
